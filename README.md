@@ -1,4 +1,4 @@
 # AndroidProject
 My name is Nguyen Anh Tuan
-Thiss is my project android
+This is my project android
 
